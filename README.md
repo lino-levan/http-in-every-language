@@ -6,6 +6,8 @@ Currently we have:
 
 - Crystal
 - Javascript
-  - Node
   - Deno
+  - Node
 - Rust
+- Typescript
+  - Deno
