@@ -9,6 +9,7 @@ Currently we have:
 - Javascript
   - Deno
   - Node
+- Python
 - Rust
 - Typescript
   - Deno
