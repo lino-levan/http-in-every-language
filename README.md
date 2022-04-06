@@ -10,6 +10,7 @@ Currently we have:
   - Deno
   - Node
 - Python
+- Ruby
 - Rust
 - Typescript
   - Deno
