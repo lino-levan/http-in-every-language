@@ -6,6 +6,7 @@ Currently we have:
 
 - C
 - Crystal
+- Go
 - Javascript
 - Python
 - Ruby
